@@ -7,7 +7,7 @@
 - [x] Web Developer
 - [x] Linux Sys Admin
 - [x] Windows Sys Admin
-- [x] Software Engineer
+- [x] Software Developer
 - [ ] DevOps Engineer
 
 My Hobbies | Projects
