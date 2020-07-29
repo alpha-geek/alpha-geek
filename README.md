@@ -10,6 +10,15 @@
 - [x] Software Developer
 - [ ] DevOps Engineer
 
+<h3>During the night I'm a </h3>
+
+- [x] Tinkerer 
+- [x] Hacker
+- [x] Mentor
+- [x] Coder
+- [ ] Student
+
+
 My Hobbies | Interests
 ------------ | -------------
 Photography| IoT
