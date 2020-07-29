@@ -1,7 +1,6 @@
-<h3> - ⚡ Fun fact: <em>I always learn from mistakes of others who take my advice<em><br> </h3>
-
 <h4><em>I'm <span> Francis Butawu</span> a Systems Administrator going DevOps</em></h4>
 
+<h3> - ⚡ Fun fact: <em>I always learn from mistakes of others who take my advice<em><br> </h3>
 
 <h5>During the day I'm  a </h5>
 
