@@ -1,5 +1,5 @@
 <h1> Hello World!!! 👋<br> </h1>
- <h3><em>I'm <span> Francis Butawu</span> a Sys Admin going Dev</em></h3>
+ <h3><em>I'm <span> Francis Butawu</span> a Systems Administrator going DevOps</em></h3>
 
 <h3>I am  a Software Engineer / Web Developer during the day</h3>
 
