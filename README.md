@@ -12,8 +12,8 @@
 
 My Hobbies | Interests
 ------------ | -------------
-Photography| Raspberry Pi
-Electronics | Arduino
+Photography| IoT
+Electronics | Cloud Computing
 
 
 <!--**alpha-geek/alpha-geek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub -->
