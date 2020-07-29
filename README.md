@@ -19,5 +19,5 @@ Electronics | Arduino
 - 🤔 I’m looking for help with ...<br>
 - 💬 Ask me about any Networking or Infrasructure stuff <br>
 - 📫 How to reach me: https://www.techcape.co.za<br>
-- ⚡ Fun fact: <em>I always learn from mistakes of others who take my advice<em><br>
+- ⚡ Fun fact: <h3><em>I always learn from mistakes of others who take my advice</h3><br>
 
