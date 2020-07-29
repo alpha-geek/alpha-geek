@@ -1,5 +1,9 @@
 <h1> Hi there 👋I'm <span> Francis Butawu</span> a Sys Admin going Dev</h1>
-<h3><span>Software Engineer / Web Developer / Photographer / Electronics Enthusiast</span></h3>
+
+<h3>I am  a Software Engineer / Web Developer during the day</h3>
+
+<h2>What i do for fun Photography / Electronics </span></h2>
+
  
 
 <!--**alpha-geek/alpha-geek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub -->
