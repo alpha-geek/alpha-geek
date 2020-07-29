@@ -10,10 +10,11 @@
 - [x] Software Developer
 - [ ] DevOps Engineer
 
-My Hobbies | Projects
+My Hobbies | Interests
 ------------ | -------------
 Photography| Raspberry Pi
 Electronics | Arduino
+
 
 <!--**alpha-geek/alpha-geek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub -->
 - 🔭 I’m currently working on Python and Django<br>
