@@ -13,12 +13,11 @@ Electronics | Arduino
  
 
 <!--**alpha-geek/alpha-geek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub -->
-<h4> - ⚡ Fun fact:  I always learn from mistakes of others who take my advice</h4>
-- 🔭 I’m currently working on Python and Django
-- 🌱 I’m currently learning DevOps Tools 
-- 👯 I’m looking to collaborate Any Open source Projects 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about any Networking or Infrasructure stuff 
-- 📫 How to reach me: https://www.techcape.co.za
-- ⚡ Fun fact: I always learn from mistakes of others who take my advice
+- 🔭 I’m currently working on Python and Django<br>
+- 🌱 I’m currently learning DevOps Tools <br>
+- 👯 I’m looking to collaborate Any Open source Projects <br>
+- 🤔 I’m looking for help with ...<br>
+- 💬 Ask me about any Networking or Infrasructure stuff <br>
+- 📫 How to reach me: https://www.techcape.co.za<br>
+- ⚡ Fun fact: <em>I always learn from mistakes of others who take my advice<em><br>
 
