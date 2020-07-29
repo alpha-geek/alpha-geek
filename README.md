@@ -3,7 +3,11 @@
 
 <h3>I am  a Software Engineer / Web Developer during the day</h3>
 
-<h2>What i do for fun Photography / Electronics </span></h2>
+My Hobbies | Projects
+------------ | -------------
+Photography| Raspberry Pi
+Electronics | Arduino
+
 
  
 
