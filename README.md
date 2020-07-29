@@ -1,5 +1,6 @@
-<h1> Hello World!!! 👋<br> </h1>
- <h3><em>I'm <span> Francis Butawu</span> a Systems Administrator going DevOps</em></h3>
+<h1> - ⚡ Fun fact: <em>I always learn from mistakes of others who take my advice<em><br> </h1>
+
+<h3><em>I'm <span> Francis Butawu</span> a Systems Administrator going DevOps</em></h3>
 
 
 <h3>During the day I'm  a </h3>
@@ -32,5 +33,4 @@ Electronics | Cloud Computing
 - 🤔 I’m looking for help with ...<br>
 - 💬 Ask me about any Networking or Infrasructure stuff <br>
 -  📫 How to reach me: https://www.techcape.co.za<br>
-<h3>- ⚡ Fun fact: <em>I always learn from mistakes of others who take my advice<em></h3><br>
 
