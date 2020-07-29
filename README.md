@@ -2,7 +2,7 @@
  <h3><em>I'm <span> Francis Butawu</span> a Systems Administrator going DevOps</em></h3>
 
 
-<h3>I am  a  / Web Developer during the day</h3>
+<h3>During the day I'm  a </h3>
 
 - [x] Web Developer
 - [x] Linux Sys Admin
