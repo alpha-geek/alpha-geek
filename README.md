@@ -2,7 +2,7 @@
 <img src="butawu.png" align="right" alt="" width="180" height="180"">
 <h3> - ⚡ Fun fact: <em>I always learn from mistakes of others who take my advice</em><br> </h3>
                                                                     
-<My Other Bio https://alpha-geek.github.io/francisb/>
+<h2>My Other Bio https://alpha-geek.github.io/francisb</h2>
 
 <h5>During the day I'm  a </h5>
 
